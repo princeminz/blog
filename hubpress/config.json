@@ -3,16 +3,16 @@
     "username": "princeminz",
     "repositoryName": "blog",
     "branch": "master",
-    "cname": ""
+    "cname": "examwith.me"
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
-    "site": "https://princeminz.github.io",
-    "hubpress": "https://princeminz.github.io",
-    "theme": "//princeminz.github.io/themes/casper",
-    "images": "https://princeminz.github.io/images"
+    "site": "http://examwith.me",
+    "hubpress": "http://examwith.me",
+    "theme": "//examwith.me/themes/casper",
+    "images": "http://examwith.me/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
@@ -24,27 +24,5 @@
       null
     ],
     "_Ctor": {}
-  },
-  "site": {
-    "title": "My blog",
-    "description": "Just a blog",
-    "logo": "",
-    "cover": "",
-    "delay": "",
-    "postsPerPage": "",
-    "googleAnalytics": "",
-    "disqus": ""
-  },
-  "socialnetwork": {
-    "email": "",
-    "github": "",
-    "twitter": "",
-    "facebook": "",
-    "googleplus": "",
-    "instagram": "",
-    "pinterest": "",
-    "flickr": "",
-    "linkedin": "",
-    "stackoverflow": ""
   }
 }
